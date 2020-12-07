@@ -417,3 +417,14 @@ Cocktail
   height: 60vh;
   object-fit: cover;
 }
+.Footer {
+  background: var(--primaryColor);
+  padding: 15px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Footer p {
+  margin-bottom: 0;
+}
